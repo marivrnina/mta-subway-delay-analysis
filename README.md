@@ -5,6 +5,9 @@ Analyzing what drives NYC subway delays across over 20 lines and 6 delay categor
 ## Overview
 This project combines two MTA open datasets: delay incidents and daily ridership, to identify the primary drivers of subway service disruptions and forecast future delay volumes.
 
+## 📹 Project Walkthrough
+Watch the walkthrough: https://youtu.be/RdgQJYzO398
+
 ## Key Findings
 - Infrastructure & Equipment is the largest delay category systemwide
 - 4 lines (N, A, F, 6) account for 30% of all delays
